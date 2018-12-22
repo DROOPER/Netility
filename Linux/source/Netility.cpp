@@ -99,7 +99,7 @@ void publicip()//------------------| CHECKING PUBLIC IP ADDRESS |---------------
 
 }
 
-void iptype() //-----------------------------| CHECKING IP ADDRESS TYPE (DYNAMIC OR STATIC) |-----------------
+void iptype() //-----------------------------| CHECKING IP ADDRESS TYPE |-----------------
 {
 	char c[401]; int x, l = 0, xx;
 	execute("ifconfig -a | grep 'DHCP'");
