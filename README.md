@@ -1,8 +1,13 @@
 # Netility Network Tool
 A usefull script written in C++ for Linux and Windows that gathers the following information:
+<br>
  -Public IP 
+ <br>
  -Website availability
- -IP address type (Static/Dynamic)
+ <br>
+ -IP address type ( Static/Dynamic )
+ <br>
  -Network interfaces
+ 
 
 
