@@ -9,5 +9,5 @@ A usefull script written in C++ for Linux and Windows that gathers the following
  <br>
  -Network interfaces
  
-
+![Screenshot](Preview.png)
 
